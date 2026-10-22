@@ -2,6 +2,6 @@
 Version=1.0
 Type=Application
 Name=BurpSuite Professional
-Exec=java -jar "/home/techieeguy/.burpfiles/burploader.jar"
+Exec=java -jar "/home/<username>/.burpfiles/burploader.jar"
 Icon=/home/techieeguy/.burpfiles/burp-icon.png
 Terminal=false
